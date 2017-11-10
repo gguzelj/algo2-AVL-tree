@@ -1,0 +1,85 @@
+[
+{
+"text":"Hola Este es mi primer tweet",
+"retweeted":"false",
+"created_at":"20110428",
+"in_reply_to_status_id_str":"null",
+"in_reply_to_screen_name":"null","source":"web",
+"user":{
+"screen_name":"Martin",
+"lang":"en"
+}}
+
+{
+"text":"Hola mi nombre es virginia . Quiero vender mi moto",
+"retweeted":"false",
+"created_at":"20110428",
+"in_reply_to_status_id_str":"null",
+"in_reply_to_screen_name":"null","source":"web",
+"user":{
+"screen_name":"Virginia",
+"lang":"en"
+}}
+
+{
+"text":"vendo moto",
+"retweeted":"false",
+"created_at":"20110428",
+"in_reply_to_status_id_str":"null",
+"in_reply_to_screen_name":"null","source":"web",
+"user":{
+"screen_name":"Zulma",
+"lang":"en"
+}}
+
+{
+"text":"Soy Natalia y el dia esta horrible",
+"retweeted":"false",
+"created_at":"20110428",
+"in_reply_to_status_id_str":"null",
+"in_reply_to_screen_name":"null","source":"web",
+"user":{
+"screen_name":"Natalia",
+"lang":"en"
+}}
+
+{
+"text":"vendo un auto hermoso les gusta ?",
+"retweeted":"false",
+"created_at":"20110428",
+"in_reply_to_status_id_str":"null",
+"in_reply_to_screen_name":"null","source":"web",
+"user":{
+"screen_name":"Carlos",
+"lang":"en"
+}}
+
+{
+"text":"Hola vengo a flotar",
+"retweeted":"false",
+"created_at":"20110428",
+"in_reply_to_status_id_str":"null",
+"in_reply_to_screen_name":"null","source":"web",
+"user":{
+"screen_name":"Daniel",
+"lang":"en"
+}}
+
+{
+"text":"Ya me canse de este TP",
+"retweeted":"false",
+"created_at":"20110428",
+"in_reply_to_status_id_str":"null",
+"in_reply_to_screen_name":"null","source":"web",
+"user":{
+"screen_name":"Ariel",
+"lang":"en"
+}}
+
+
+
+]
+
+
+
+

@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/49/trunk
+END
+sintactico.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/sintactico.h
+END
+tokenizer.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/36/trunk/tokenizer.c
+END
+ListaOrdenada.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/36/trunk/ListaOrdenada.c
+END
+Lista.c
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/8/trunk/Lista.c
+END
+Cola.c
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/2/trunk/Cola.c
+END
+ListaOrdenada.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/ListaOrdenada.h
+END
+tokenizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/17/trunk/tokenizer.h
+END
+Lista.h
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/Lista.h
+END
+lexico.c
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/36/trunk/lexico.c
+END
+Cola.h
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/2/trunk/Cola.h
+END
+diccionario.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/36/trunk/diccionario.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/47/trunk/main.c
+END
+diccionario.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/46/trunk/diccionario.h
+END
+lexico.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/36/trunk/lexico.h
+END
+TP3.cbp
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/46/trunk/TP3.cbp
+END
+indice.c
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/47/trunk/indice.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/48/trunk/makefile
+END
+parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/3/trunk/parser.c
+END
+indice.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/47/trunk/indice.h
+END
+TP3.layout
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/46/trunk/TP3.layout
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/parser.h
+END
+buscador.c
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/39/trunk/buscador.c
+END
+TAVL.c
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/49/trunk/TAVL.c
+END
+buscador.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/18/trunk/buscador.h
+END
+TAVL.h
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/46/trunk/TAVL.h
+END
+TP3.depend
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/47/trunk/TP3.depend
+END
+doc1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/36/trunk/doc1.txt
+END
+doc2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/49/trunk/doc2.txt
+END
+Pila.c
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/2/trunk/Pila.c
+END
+constructor.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/36/trunk/constructor.c
+END
+constructor.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/36/trunk/constructor.h
+END
+Pila.h
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/2/trunk/Pila.h
+END
+sintactico.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/sintactico.c
+END

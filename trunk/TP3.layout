@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Lista.c" open="0" top="0" tabpos="2">
+		<Cursor position="327" topLine="0" />
+	</File>
+	<File name="Lista.h" open="0" top="0" tabpos="7">
+		<Cursor position="934" topLine="25" />
+	</File>
+	<File name="ListaOrdenada.c" open="0" top="0" tabpos="6">
+		<Cursor position="422" topLine="0" />
+	</File>
+	<File name="TAVL.c" open="1" top="0" tabpos="5">
+		<Cursor position="8468" topLine="336" />
+	</File>
+	<File name="TAVL.h" open="1" top="0" tabpos="4">
+		<Cursor position="968" topLine="15" />
+	</File>
+	<File name="buscador.c" open="0" top="0" tabpos="1">
+		<Cursor position="1045" topLine="0" />
+	</File>
+	<File name="buscador.h" open="0" top="0" tabpos="9">
+		<Cursor position="664" topLine="0" />
+	</File>
+	<File name="constructor.c" open="0" top="0" tabpos="5">
+		<Cursor position="1703" topLine="31" />
+	</File>
+	<File name="constructor.h" open="0" top="0" tabpos="8">
+		<Cursor position="500" topLine="18" />
+	</File>
+	<File name="diccionario.c" open="0" top="0" tabpos="6">
+		<Cursor position="453" topLine="0" />
+	</File>
+	<File name="diccionario.h" open="1" top="0" tabpos="3">
+		<Cursor position="81" topLine="0" />
+	</File>
+	<File name="indice.c" open="1" top="1" tabpos="1">
+		<Cursor position="12457" topLine="369" />
+	</File>
+	<File name="indice.h" open="1" top="0" tabpos="6">
+		<Cursor position="1586" topLine="20" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="2">
+		<Cursor position="3069" topLine="72" />
+	</File>
+	<File name="parser.c" open="0" top="0" tabpos="2">
+		<Cursor position="578" topLine="0" />
+	</File>
+	<File name="tokenizer.c" open="0" top="0" tabpos="3">
+		<Cursor position="7719" topLine="153" />
+	</File>
+	<File name="tokenizer.h" open="0" top="0" tabpos="6">
+		<Cursor position="476" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

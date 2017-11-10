@@ -1,0 +1,379 @@
+# depslib dependency file v1.0
+1308161369 source:c:\users\visita\desktop\tp3\cola.c
+	"Cola.h"
+
+1307450534 
+
+1308161369 c:\users\visita\desktop\tp3\cola.h
+	<stdlib.h>
+	<memory.h>
+
+1308161369 source:c:\users\visita\desktop\tp3\lista.c
+	"Lista.h"
+
+1308161369 c:\users\visita\desktop\tp3\lista.h
+	<stdlib.h>
+	<memory.h>
+
+1308163030 source:c:\users\visita\desktop\tp3\listaordenada.c
+	"ListaOrdenada.h"
+
+1306460666 nada.h"
+
+1308163030 c:\users\visita\desktop\tp3\listaordenada.h
+	"Lista.h"
+
+1307450534 source:c:\users\visita\desktop\tp3\listareporte.c
+	"ListaReporte.h"
+
+1306460666 rte.h"
+
+1307450534 c:\users\visita\desktop\tp3\listareporte.h
+	"Lista.h"
+
+1308161369 source:c:\users\visita\desktop\tp3\pila.c
+	"Pila.h"
+
+1308161369 c:\users\visita\desktop\tp3\pila.h
+	<malloc.h>
+	<memory.h>
+
+1308161369 source:c:\users\visita\desktop\tp3\constructor.c
+	"constructor.h"
+
+1306461679 or.h"
+
+1308161369 c:\users\visita\desktop\tp3\constructor.h
+	<stdio.h>
+	"diccionario.h"
+	"Cola.h"
+	"lexico.h"
+	"indice.h"
+
+1308163091 c:\users\visita\desktop\tp3\diccionario.h
+	"ListaOrdenada.h"
+
+1308161369 c:\users\visita\desktop\tp3\lexico.h
+	<stdio.h>
+
+1308161369 source:c:\users\visita\desktop\tp3\diccionario.c
+	"diccionario.h"
+
+1306460666 io.h"
+
+1308161369 source:c:\users\visita\desktop\tp3\lexico.c
+	"parser.h"
+	"lexico.h"
+	"sintactico.h"
+	<string.h>
+	<ctype.h>
+
+1308161369 c:\users\visita\desktop\tp3\parser.h
+	<stdio.h>
+	"lexico.h"
+	"sintactico.h"
+
+1306460666 o.h"
+
+1308161369 c:\users\visita\desktop\tp3\sintactico.h
+	"lexico.h"
+	"constructor.h"
+	"Pila.h"
+
+1308161369 source:c:\users\visita\desktop\tp3\parser.c
+	"parser.h"
+
+1308161369 source:c:\users\visita\desktop\tp3\sintactico.c
+	"parser.h"
+	"sintactico.h"
+
+1308166651 source:c:\users\visita\desktop\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"diccionario.h"
+	"indice.h"
+	"buscador.h"
+
+1307450534 h"
+
+1308161369 source:c:\users\visita\desktop\tp3\tokenizer.c
+	"tokenizer.h"
+	<ctype.h>
+
+1306460666 .h"
+
+1308161369 c:\users\visita\desktop\tp3\tokenizer.h
+	"Lista.h"
+
+1308166355 source:c:\users\visita\desktop\tp3\indice.c
+	"indice.h"
+
+1308166448 c:\users\visita\desktop\tp3\indice.h
+	<stdio.h>
+	"Lista.h"
+	"diccionario.h"
+	"tokenizer.h"
+	"TAVL.h"
+
+1308161369 source:c:\users\visita\desktop\tp3\ab.c
+	"AB.h"
+
+1308161369 c:\users\visita\desktop\tp3\ab.h
+	<stdlib.h>
+	<memory.h>
+
+1308161369 c:\users\visita\desktop\tp3\abo.h
+	"AB.h"
+
+1308161369 source:c:\users\visita\desktop\tp3\abo.c
+	"ABO.h"
+
+1306460666 source:c:\documents and settings\guzelj\escritorio\tp3\ab.c
+	"AB.h"
+
+1306460666 c:\documents and settings\guzelj\escritorio\tp3\ab.h
+	<stdlib.h>
+	<memory.h>
+
+1306465103 source:c:\documents and settings\guzelj\escritorio\tp3\abo.c
+	"ABO.h"
+
+1306460666 c:\documents and settings\guzelj\escritorio\tp3\abo.h
+	"AB.h"
+
+1306460666 source:c:\documents and settings\guzelj\escritorio\tp3\cola.c
+	"Cola.h"
+
+1306460666 c:\documents and settings\guzelj\escritorio\tp3\cola.h
+	<stdlib.h>
+	<memory.h>
+
+1306460666 source:c:\documents and settings\guzelj\escritorio\tp3\lista.c
+	"Lista.h"
+
+1306460666 c:\documents and settings\guzelj\escritorio\tp3\lista.h
+	<stdlib.h>
+	<memory.h>
+
+1306460666 source:c:\documents and settings\guzelj\escritorio\tp3\listaordenada.c
+	"ListaOrdenada.h"
+
+1306460666 c:\documents and settings\guzelj\escritorio\tp3\listaordenada.h
+	"Lista.h"
+
+1306460666 source:c:\documents and settings\guzelj\escritorio\tp3\listareporte.c
+	"ListaReporte.h"
+
+1306460666 c:\documents and settings\guzelj\escritorio\tp3\listareporte.h
+	"Lista.h"
+
+1306460666 source:c:\documents and settings\guzelj\escritorio\tp3\pila.c
+	"Pila.h"
+
+1306460666 c:\documents and settings\guzelj\escritorio\tp3\pila.h
+	<malloc.h>
+	<memory.h>
+
+1306461679 source:c:\documents and settings\guzelj\escritorio\tp3\constructor.c
+	"constructor.h"
+
+1306460666 c:\documents and settings\guzelj\escritorio\tp3\constructor.h
+	<stdio.h>
+	"diccionario.h"
+	"Cola.h"
+	"ListaReporte.h"
+	"lexico.h"
+	"indice.h"
+
+1306460666 c:\documents and settings\guzelj\escritorio\tp3\diccionario.h
+	"ListaOrdenada.h"
+
+1306460666 c:\documents and settings\guzelj\escritorio\tp3\lexico.h
+
+1306460666 c:\documents and settings\guzelj\escritorio\tp3\indice.h
+	"lista.h"
+	"diccionario.h"
+	"tokenizer.h"
+	"ABO.h"
+
+1306460666 c:\documents and settings\guzelj\escritorio\tp3\tokenizer.h
+	"lista.h"
+
+1306460666 source:c:\documents and settings\guzelj\escritorio\tp3\diccionario.c
+	"diccionario.h"
+
+1306464224 source:c:\documents and settings\guzelj\escritorio\tp3\indice.c
+	"indice.h"
+
+1306460666 source:c:\documents and settings\guzelj\escritorio\tp3\lexico.c
+	"parser.h"
+	"lexico.h"
+	"sintactico.h"
+	<string.h>
+
+1306460666 c:\documents and settings\guzelj\escritorio\tp3\parser.h
+	<stdio.h>
+	"lexico.h"
+	"sintactico.h"
+
+1306460666 c:\documents and settings\guzelj\escritorio\tp3\sintactico.h
+	"lexico.h"
+	"constructor.h"
+	"Pila.h"
+
+1306460666 source:c:\documents and settings\guzelj\escritorio\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"diccionario.h"
+	"indice.h"
+
+1306460666 source:c:\documents and settings\guzelj\escritorio\tp3\parser.c
+	"parser.h"
+
+1306460666 source:c:\documents and settings\guzelj\escritorio\tp3\sintactico.c
+	"parser.h"
+	"sintactico.h"
+
+1306460666 source:c:\documents and settings\guzelj\escritorio\tp3\tokenizer.c
+	"tokenizer.h"
+
+1308161369 source:c:\users\visita\desktop\tp3\buscador.c
+	"buscador.h"
+
+1308161369 c:\users\visita\desktop\tp3\buscador.h
+	"tokenizer.h"
+	"Lista.h"
+	"indice.h"
+
+1307710400 source:/home/visita/Escritorio/fiuba-tp3/AB.c
+	"AB.h"
+
+1307710400 /home/visita/Escritorio/fiuba-tp3/AB.h
+	<stdlib.h>
+	<memory.h>
+
+1307711833 source:/home/visita/Escritorio/fiuba-tp3/ABO.c
+	"ABO.h"
+
+1307711681 /home/visita/Escritorio/fiuba-tp3/ABO.h
+	"AB.h"
+
+1307710400 source:/home/visita/Escritorio/fiuba-tp3/Cola.c
+	"Cola.h"
+
+1307710400 /home/visita/Escritorio/fiuba-tp3/Cola.h
+	<stdlib.h>
+	<memory.h>
+
+1307710400 source:/home/visita/Escritorio/fiuba-tp3/Lista.c
+	"Lista.h"
+
+1307710400 /home/visita/Escritorio/fiuba-tp3/Lista.h
+	<stdlib.h>
+	<memory.h>
+
+1307710400 source:/home/visita/Escritorio/fiuba-tp3/ListaOrdenada.c
+	"ListaOrdenada.h"
+
+1307710400 /home/visita/Escritorio/fiuba-tp3/ListaOrdenada.h
+	"Lista.h"
+
+1307710400 source:/home/visita/Escritorio/fiuba-tp3/ListaReporte.c
+	"ListaReporte.h"
+	<stdio.h>
+
+1307710400 /home/visita/Escritorio/fiuba-tp3/ListaReporte.h
+	"Lista.h"
+
+1307710400 source:/home/visita/Escritorio/fiuba-tp3/Pila.c
+	"Pila.h"
+
+1307710400 /home/visita/Escritorio/fiuba-tp3/Pila.h
+	<malloc.h>
+	<memory.h>
+
+1307717856 source:/home/visita/Escritorio/fiuba-tp3/buscador.c
+	"buscador.h"
+
+1307710400 /home/visita/Escritorio/fiuba-tp3/buscador.h
+	"tokenizer.h"
+	"Lista.h"
+	"indice.h"
+
+1307710400 /home/visita/Escritorio/fiuba-tp3/tokenizer.h
+	"Lista.h"
+
+1307710773 /home/visita/Escritorio/fiuba-tp3/indice.h
+	<stdio.h>
+	"Lista.h"
+	"diccionario.h"
+	"tokenizer.h"
+	"ABO.h"
+
+1307710400 /home/visita/Escritorio/fiuba-tp3/diccionario.h
+	"ListaOrdenada.h"
+
+1307710400 source:/home/visita/Escritorio/fiuba-tp3/constructor.c
+	"constructor.h"
+
+1307710400 /home/visita/Escritorio/fiuba-tp3/constructor.h
+	<stdio.h>
+	"diccionario.h"
+	"Cola.h"
+	"lexico.h"
+	"indice.h"
+
+1307710400 /home/visita/Escritorio/fiuba-tp3/lexico.h
+	<stdio.h>
+
+1307710400 source:/home/visita/Escritorio/fiuba-tp3/diccionario.c
+	"diccionario.h"
+
+1307710400 source:/home/visita/Escritorio/fiuba-tp3/lexico.c
+	"parser.h"
+	"lexico.h"
+	"sintactico.h"
+	<string.h>
+	<ctype.h>
+
+1307710400 /home/visita/Escritorio/fiuba-tp3/parser.h
+	<stdio.h>
+	"lexico.h"
+	"sintactico.h"
+
+1307710400 /home/visita/Escritorio/fiuba-tp3/sintactico.h
+	"lexico.h"
+	"constructor.h"
+	"Pila.h"
+
+1307710400 source:/home/visita/Escritorio/fiuba-tp3/main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"diccionario.h"
+	"indice.h"
+	"buscador.h"
+
+1307710400 source:/home/visita/Escritorio/fiuba-tp3/parser.c
+	"parser.h"
+
+1307710400 source:/home/visita/Escritorio/fiuba-tp3/sintactico.c
+	"parser.h"
+	"sintactico.h"
+
+1307710400 source:/home/visita/Escritorio/fiuba-tp3/tokenizer.c
+	"tokenizer.h"
+	<ctype.h>
+
+1307729629 source:/home/visita/Escritorio/fiuba-tp3/indice.c
+	"indice.h"
+
+1308163949 source:c:\users\visita\desktop\tp3\tavl.c
+	"TAVL.h"
+
+1308164074 c:\users\visita\desktop\tp3\tavl.h
+	<stdlib.h>
+	<memory.h>
+
